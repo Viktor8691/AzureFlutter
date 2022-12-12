@@ -1,0 +1,34 @@
+{
+  "value" : [
+    {
+      "name": "Bean-to-Cup Machines",
+      "accountnumber" : "3011",
+      "statecode": 1,
+      "address1_stateorprovince" : "WA"
+    },
+    {
+      "name": "Cafe Duo",
+      "accountnumber" : "3006",
+      "statecode": 0,
+      "address1_stateorprovince" : "WA"
+    },
+    {
+      "name": "Contoso Coffee",
+      "accountnumber" : "2017",
+      "statecode": 0,
+      "address1_stateorprovince" : "WA"
+    },
+    {
+      "name": "Flutter developer",
+      "accountnumber" : "2022",
+      "statecode": 0,
+      "address1_stateorprovince" : "BE"
+    },
+    {
+      "name": "Fourth Coffee",
+      "accountnumber" : "2020",
+      "statecode": 0,
+      "address1_stateorprovince" : "WA"
+    }
+  ]
+}
